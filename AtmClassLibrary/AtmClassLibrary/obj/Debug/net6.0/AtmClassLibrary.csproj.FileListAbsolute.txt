@@ -1,0 +1,12 @@
+F:\c#_workspace\ATMProject\AtmClassLibrary\AtmClassLibrary\bin\Debug\net6.0\AtmClassLibrary.deps.json
+F:\c#_workspace\ATMProject\AtmClassLibrary\AtmClassLibrary\bin\Debug\net6.0\AtmClassLibrary.dll
+F:\c#_workspace\ATMProject\AtmClassLibrary\AtmClassLibrary\bin\Debug\net6.0\AtmClassLibrary.pdb
+F:\c#_workspace\ATMProject\AtmClassLibrary\AtmClassLibrary\obj\Debug\net6.0\AtmClassLibrary.csproj.AssemblyReference.cache
+F:\c#_workspace\ATMProject\AtmClassLibrary\AtmClassLibrary\obj\Debug\net6.0\AtmClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#_workspace\ATMProject\AtmClassLibrary\AtmClassLibrary\obj\Debug\net6.0\AtmClassLibrary.AssemblyInfoInputs.cache
+F:\c#_workspace\ATMProject\AtmClassLibrary\AtmClassLibrary\obj\Debug\net6.0\AtmClassLibrary.AssemblyInfo.cs
+F:\c#_workspace\ATMProject\AtmClassLibrary\AtmClassLibrary\obj\Debug\net6.0\AtmClassLibrary.csproj.CoreCompileInputs.cache
+F:\c#_workspace\ATMProject\AtmClassLibrary\AtmClassLibrary\obj\Debug\net6.0\AtmClassLibrary.dll
+F:\c#_workspace\ATMProject\AtmClassLibrary\AtmClassLibrary\obj\Debug\net6.0\refint\AtmClassLibrary.dll
+F:\c#_workspace\ATMProject\AtmClassLibrary\AtmClassLibrary\obj\Debug\net6.0\AtmClassLibrary.pdb
+F:\c#_workspace\ATMProject\AtmClassLibrary\AtmClassLibrary\obj\Debug\net6.0\ref\AtmClassLibrary.dll

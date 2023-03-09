@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CurrentAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="437027" Fname="BRENDON" Lname="MUCHESA">
+  <creditLimit>3000</creditLimit>
+  <Debit>5000</Debit>
+  <Credit>0</Credit>
+</CurrentAccount>

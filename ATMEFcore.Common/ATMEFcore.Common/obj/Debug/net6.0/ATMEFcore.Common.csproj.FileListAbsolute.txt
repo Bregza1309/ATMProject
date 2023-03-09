@@ -1,0 +1,12 @@
+F:\c#_workspace\ATMProject\ATMEFcore.Common\ATMEFcore.Common\bin\Debug\net6.0\ATMEFcore.Common.deps.json
+F:\c#_workspace\ATMProject\ATMEFcore.Common\ATMEFcore.Common\bin\Debug\net6.0\ATMEFcore.Common.dll
+F:\c#_workspace\ATMProject\ATMEFcore.Common\ATMEFcore.Common\bin\Debug\net6.0\ATMEFcore.Common.pdb
+F:\c#_workspace\ATMProject\ATMEFcore.Common\ATMEFcore.Common\obj\Debug\net6.0\ATMEFcore.Common.csproj.AssemblyReference.cache
+F:\c#_workspace\ATMProject\ATMEFcore.Common\ATMEFcore.Common\obj\Debug\net6.0\ATMEFcore.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#_workspace\ATMProject\ATMEFcore.Common\ATMEFcore.Common\obj\Debug\net6.0\ATMEFcore.Common.AssemblyInfoInputs.cache
+F:\c#_workspace\ATMProject\ATMEFcore.Common\ATMEFcore.Common\obj\Debug\net6.0\ATMEFcore.Common.AssemblyInfo.cs
+F:\c#_workspace\ATMProject\ATMEFcore.Common\ATMEFcore.Common\obj\Debug\net6.0\ATMEFcore.Common.csproj.CoreCompileInputs.cache
+F:\c#_workspace\ATMProject\ATMEFcore.Common\ATMEFcore.Common\obj\Debug\net6.0\ATMEFcore.Common.dll
+F:\c#_workspace\ATMProject\ATMEFcore.Common\ATMEFcore.Common\obj\Debug\net6.0\refint\ATMEFcore.Common.dll
+F:\c#_workspace\ATMProject\ATMEFcore.Common\ATMEFcore.Common\obj\Debug\net6.0\ATMEFcore.Common.pdb
+F:\c#_workspace\ATMProject\ATMEFcore.Common\ATMEFcore.Common\obj\Debug\net6.0\ref\ATMEFcore.Common.dll
